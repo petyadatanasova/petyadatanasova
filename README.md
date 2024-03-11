@@ -1,9 +1,7 @@
-👋 Hi, everyone! I`m @Petya!
-👀 I’m interested in software developing.
-🌱 I’m currently learning Entity Framework Core @SoftUni.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, everyone! I`m @Petya!
+- 👀 I’m interested in software developing.
+- 🌱 I’m currently learning Entity Framework Core @SoftUni.
+
 
 
 <!--

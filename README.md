@@ -1,4 +1,4 @@
-- 👋 Hi, everyone! I`m @Petya!
+- 👋 Hi, everyone! I`m Petya!
 - 👀 I’m interested in software developing.
 - 🌱 I’m currently learning Entity Framework Core @SoftUni.
 

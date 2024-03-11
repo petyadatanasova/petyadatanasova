@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Entity Framework Core @SoftUni.
 
 Connect with me:
-https://www.linkedin.com/in/petya-atanasova-66853289/
+petya-atanasova-66853289/
+
+
 
 
 <!--

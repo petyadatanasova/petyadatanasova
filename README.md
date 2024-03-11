@@ -2,8 +2,6 @@
 - 👀 I’m interested in software developing.
 - 🌱 I’m currently learning Entity Framework Core @SoftUni.
 
-Connect with me:
-petya-atanasova-66853289/
 
 
 
@@ -21,6 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Connect with me:
+petya-atanasova-66853289/
 
 
 -->
